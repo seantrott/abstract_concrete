@@ -5,3 +5,8 @@
 # Data
 
 We use the following datasets for our analysis:
+
+* SimVerb-3500  
+* SimLex-999  
+* WordSim-353  
+* MTurk-771  
